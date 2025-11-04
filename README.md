@@ -1,2 +1,3 @@
 # Amazon-Prime-Analytics-1920---2021
 Amazon Prime content analytics dashboard built in Power BI
+Streaming isn’t just entertainment — it’s a global content ecosystem shaped by strategic catalog planning, genre investments, and audience demand. To better understand the structure behind Amazon Prime’s content library, I analyzed its dataset and built a Power BI dashboard that reveals content trends, genre distribution, regional contribution, and catalog evolution from 1920–2021. Why this project? To develop a deeper understanding of content strategy in modern media, and apply data analytics to uncover patterns that inform platform growth, audience preference, and long-term streaming trends. add some movie icons
